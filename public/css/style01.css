@@ -1,0 +1,25 @@
+#page{
+    margin: auto;
+    font-size:250%;
+    width:85%;
+    padding: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+td{
+    margin:5px;
+    padding: 5px;
+}
+table,tr,td,th{
+    border:1px solid #04E594;
+    text-align: center;
+    
+}
+td[colspan],th{
+    background-color:#04E594;
+}
+input{
+    height:30px;
+    width:500px;
+    font-family: sans-serif;
+    font-size:50%;
+}
